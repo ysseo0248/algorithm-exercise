@@ -41,7 +41,6 @@ public class Solution1 {
         System.out.println(solution(participant,completion));
     }
 
-
     public static String solution(String[] participant, String[] completion) {
         String answer = "";
         List<String> list1 = new ArrayList<String>(Arrays.asList(participant));
